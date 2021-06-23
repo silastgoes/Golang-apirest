@@ -1,6 +1,6 @@
 # Golang-apirest
 
-~``API RESTFUL``~ em go com conexão mongoDB para um banco de filmes com methodos 
+**``API RESTFUL``** em go com conexão mongoDB para um banco de filmes com methodos 
 
 ```
 GET/movies/       //func GetAll
@@ -9,7 +9,7 @@ POST/movies/      //func Create
 DELETE/movies/1   //func Delete
 PUT/movies/1      //func Update
 ```
-~``MongoDB``~ utilizado por uma imagem docker na ~``Porta:27018``~
+**``MongoDB``** utilizado por uma imagem docker na **``Porta:27018``**
 
 ## Dependências necessárias
 
