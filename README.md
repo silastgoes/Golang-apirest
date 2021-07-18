@@ -1,6 +1,6 @@
 # Golang-apirest
 
-**``API RESTFUL``** em go com conexão mongoDB para um banco de filmes com methodos 
+**``API REST``** em go com conexão mongoDB para um banco de filmes com methodos 
 
 ```
 GET/movies/       //func GetAll
